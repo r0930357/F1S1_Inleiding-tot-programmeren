@@ -1,0 +1,14 @@
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.csproj.AssemblyReference.cache
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.AssemblyInfoInputs.cache
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.AssemblyInfo.cs
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.csproj.CoreCompileInputs.cache
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\bin\Debug\netcoreapp3.1\Oefening_01_01.exe
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\bin\Debug\netcoreapp3.1\Oefening_01_01.deps.json
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\bin\Debug\netcoreapp3.1\Oefening_01_01.runtimeconfig.json
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\bin\Debug\netcoreapp3.1\Oefening_01_01.runtimeconfig.dev.json
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\bin\Debug\netcoreapp3.1\Oefening_01_01.dll
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\bin\Debug\netcoreapp3.1\Oefening_01_01.pdb
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.dll
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.pdb
+C:\Users\Tom\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_01\obj\Debug\netcoreapp3.1\Oefening_01_01.genruntimeconfig.cache

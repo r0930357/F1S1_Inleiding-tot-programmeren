@@ -1,0 +1,3 @@
+Bilzen;^;^;5;5
+Antwerpen;$;*;4;9
+Brussel;(;);7;1

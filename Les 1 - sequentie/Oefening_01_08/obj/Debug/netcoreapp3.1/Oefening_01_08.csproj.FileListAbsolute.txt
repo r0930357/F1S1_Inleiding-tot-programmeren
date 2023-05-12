@@ -1,0 +1,35 @@
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.exe
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.deps.json
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.runtimeconfig.json
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.runtimeconfig.dev.json
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.dll
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.pdb
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.csproj.AssemblyReference.cache
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.AssemblyInfoInputs.cache
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.AssemblyInfo.cs
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.csproj.CoreCompileInputs.cache
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.dll
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.pdb
+C:\Users\tombe\OneDrive - Thomas More\Documenten\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.genruntimeconfig.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.exe
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.deps.json
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.runtimeconfig.json
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.runtimeconfig.dev.json
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.dll
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\bin\Debug\netcoreapp3.1\Oefening_01_08.pdb
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.csproj.AssemblyReference.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.AssemblyInfoInputs.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.AssemblyInfo.cs
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.csproj.CoreCompileInputs.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.dll
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.pdb
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.genruntimeconfig.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefeningen\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.csproj.AssemblyReference.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefeningen\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefeningen\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.AssemblyInfoInputs.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefeningen\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.AssemblyInfo.cs
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefeningen\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.csproj.CoreCompileInputs.cache
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefeningen\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.dll
+C:\Users\tombe\SynologyDrive\School\2022-2023\Semester 1\Inleiding tot programmeren\Oefeningen\Oefening_01_08\obj\Debug\netcoreapp3.1\Oefening_01_08.pdb
